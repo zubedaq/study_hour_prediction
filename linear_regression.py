@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1uLyyjzLC2f5BSs3zdgDkC1VW-9HJ62XO
 """
 
-!pip install streamlit
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
